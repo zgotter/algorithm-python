@@ -8,6 +8,6 @@
 | 자료구조(기본) | 프린터 큐     | 하     | 큐, 그리디         | [https://www.acmicpc.net/problem/1966](https://www.acmicpc.net/problem/1966) |    2     |
 | 자료구조(기본) | 키로거        | 중     | 스택, 그리디       | [https://www.acmicpc.net/problem/5397](https://www.acmicpc.net/problem/5397) |    2     |
 | 자료구조(고급) | SHA-256       | 하     | 해시               | [https://www.acmicpc.net/problem/10930](https://www.acmicpc.net/problem/10930) |    3     |
-| 자료구조(고급) | 수 찾기       | 하     | 해시, 배열         | [https://www.acmicpc.net/problem/1920](https://www.acmicpc.net/problem/1920) |    1     |
-| 자료구조(고급) | 친구 네트워크 | 중     | 해시, 집합, 그래프 | [https://www.acmicpc.net/problem/4195](https://www.acmicpc.net/problem/4195) |    1     |
+| 자료구조(고급) | 수 찾기       | 하     | 해시, 배열         | [https://www.acmicpc.net/problem/1920](https://www.acmicpc.net/problem/1920) |    2     |
+| 자료구조(고급) | 친구 네트워크 | 중     | 해시, 집합, 그래프 | [https://www.acmicpc.net/problem/4195](https://www.acmicpc.net/problem/4195) |    2     |
 
