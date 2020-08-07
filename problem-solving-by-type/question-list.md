@@ -13,4 +13,5 @@
 | 정렬 알고리즘(기본) | 수 정렬하기   | 하     | 정렬               | [https://www.acmicpc.net/problem/2750](https://www.acmicpc.net/problem/2750) |    1     |
 | 정렬 알고리즘(기본) | 소트인사이드  | 하     | 정렬, 배열         | [https://www.acmicpc.net/problem/1427](https://www.acmicpc.net/problem/1427) |    0     |
 | 정렬 알고리즘(기본) | 나이순 정렬   | 하     | 정렬               | [https://www.acmicpc.net/problem/10814](https://www.acmicpc.net/problem/10814) |    0     |
+| 정렬 알고리즘(기본) | 좌표 정렬하기 | 하     | 정렬               | [https://www.acmicpc.net/problem/11650](https://www.acmicpc.net/problem/11650) |    0     |
 
