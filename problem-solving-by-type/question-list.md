@@ -10,7 +10,7 @@
 | 자료구조(고급)      | SHA-256       | 하     | 해시               | [https://www.acmicpc.net/problem/10930](https://www.acmicpc.net/problem/10930) |    3     |
 | 자료구조(고급)      | 수 찾기       | 하     | 해시, 배열         | [https://www.acmicpc.net/problem/1920](https://www.acmicpc.net/problem/1920) |    2     |
 | 자료구조(고급)      | 친구 네트워크 | 중     | 해시, 집합, 그래프 | [https://www.acmicpc.net/problem/4195](https://www.acmicpc.net/problem/4195) |    2     |
-| 정렬 알고리즘(기본) | 수 정렬하기   | 하     | 정렬               | [https://www.acmicpc.net/problem/2750](https://www.acmicpc.net/problem/2750) |    1     |
+| 정렬 알고리즘(기본) | 수 정렬하기   | 하     | 정렬               | [https://www.acmicpc.net/problem/2750](https://www.acmicpc.net/problem/2750) |    2     |
 | 정렬 알고리즘(기본) | 소트인사이드  | 하     | 정렬, 배열         | [https://www.acmicpc.net/problem/1427](https://www.acmicpc.net/problem/1427) |    0     |
 | 정렬 알고리즘(기본) | 나이순 정렬   | 하     | 정렬               | [https://www.acmicpc.net/problem/10814](https://www.acmicpc.net/problem/10814) |    0     |
 | 정렬 알고리즘(기본) | 좌표 정렬하기 | 하     | 정렬               | [https://www.acmicpc.net/problem/11650](https://www.acmicpc.net/problem/11650) |    0     |
