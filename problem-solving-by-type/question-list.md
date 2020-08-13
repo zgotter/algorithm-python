@@ -15,4 +15,5 @@
 | 정렬 알고리즘(기본) | 나이순 정렬   | 하     | 정렬               | [https://www.acmicpc.net/problem/10814](https://www.acmicpc.net/problem/10814) |    1     |
 | 정렬 알고리즘(기본) | 좌표 정렬하기 | 하     | 정렬               | [https://www.acmicpc.net/problem/11650](https://www.acmicpc.net/problem/11650) |    1     |
 | 정렬 알고리즘(기본) | 수 정렬하기 3 | 하     | 정렬               | [https://www.acmicpc.net/problem/10989](https://www.acmicpc.net/problem/10989) |    1     |
+| 재귀 호출           | 피보나치 수   | 하     | 재귀 함수          | [https://www.acmicpc.net/problem/2747](https://www.acmicpc.net/problem/2747) |    0     |
 
