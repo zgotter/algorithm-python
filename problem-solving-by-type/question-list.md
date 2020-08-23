@@ -20,4 +20,5 @@
 | 재귀 호출           | 0 만들기      | 중     | 재귀 함수          | [https://www.acmicpc.net/problem/7490](https://www.acmicpc.net/problem/7490) |    0     |
 | 정렬 알고리즘(고급) | 수 정렬하기 2 | 하     | 정렬               | [https://www.acmicpc.net/problem/2751](https://www.acmicpc.net/problem/2751) |    0     |
 | 정렬 알고리즘(고급) | K번째 수      | 중     | 정렬               | [https://www.acmicpc.net/problem/11004](https://www.acmicpc.net/problem/11004) |    0     |
+| 탐색 알고리즘(기본) | 문서 찾기     | 하     | 탐색               | [https://www.acmicpc.net/problem/1543](https://www.acmicpc.net/problem/1543) |    0     |
 
