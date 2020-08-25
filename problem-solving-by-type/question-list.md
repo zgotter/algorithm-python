@@ -22,4 +22,5 @@
 | 정렬 알고리즘(고급) | K번째 수      | 중     | 정렬               | [https://www.acmicpc.net/problem/11004](https://www.acmicpc.net/problem/11004) |    0     |
 | 탐색 알고리즘(기본) | 문서 찾기     | 하     | 탐색               | [https://www.acmicpc.net/problem/1543](https://www.acmicpc.net/problem/1543) |    0     |
 | 탐색 알고리즘(기본) | 새            | 하     | 탐색               | [https://www.acmicpc.net/problem/1568](https://www.acmicpc.net/problem/1568) |    0     |
+| 탐색 알고리즘(기본) | 베스트셀러    | 하     | 탐색               | [https://www.acmicpc.net/problem/1302](https://www.acmicpc.net/problem/1302) |    0     |
 
