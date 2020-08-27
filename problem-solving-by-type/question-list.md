@@ -24,4 +24,5 @@
 | 탐색 알고리즘(기본) | 새            | 하     | 탐색               | [https://www.acmicpc.net/problem/1568](https://www.acmicpc.net/problem/1568) |    0     |
 | 탐색 알고리즘(기본) | 베스트셀러    | 하     | 탐색               | [https://www.acmicpc.net/problem/1302](https://www.acmicpc.net/problem/1302) |    0     |
 | 탐색 알고리즘(기본) | 트로피 진열   | 하     | 탐색               | [https://www.acmicpc.net/problem/1668](https://www.acmicpc.net/problem/1668) |    0     |
+| 탐색 알고리즘(기본) | 성 지키기     | 하     | 탐색               | [https://www.acmicpc.net/problem/1236](https://www.acmicpc.net/problem/1236) |    0     |
 
