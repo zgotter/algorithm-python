@@ -7,6 +7,7 @@
 ## data-structure
 
 - 자료 구조 학습 내용 정리
+  - 배열
 
 <br>
 
