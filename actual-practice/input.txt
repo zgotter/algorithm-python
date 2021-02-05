@@ -1,2 +1,2 @@
-3 2
-BOJ IN
+8
+XOOOXOOX
