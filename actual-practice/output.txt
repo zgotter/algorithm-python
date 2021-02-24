@@ -1,2 +1,7 @@
-<problem>31471<is hardest>melborp reve<end> 
-<problem>31471<is hardest>melborp reve<end>
+1
+DDSDDD
+DDSDWD
+DSDDDD
+DDWDDD
+DDDWDD
+DDDDDD
