@@ -2,6 +2,7 @@
 # url : https://www.acmicpc.net/problem/1439
 
 # 해설 (1)
+#  - 성공
 
 # 문제 단순화
 #  - 0001100 -> 010 으로 볼 수 있다.
