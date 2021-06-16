@@ -10,15 +10,15 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "python": "${command:python.interpreterPath}"
-/* 
+            "python": "${command:python.interpreterPath}",
             "args": [
                 "<",
-                "/mnt/c/shkim/jupyter notebook/algorithm-python/actual-practice/input.txt",
+                "C:/shkim/jupyter notebook/algorithm-python/boj/input.txt",
                 ">",
-                "/mnt/c/shkim/jupyter notebook/algorithm-python/actual-practice/output.txt"
+                "C:/shkim/jupyter notebook/algorithm-python/boj/output.txt"
+                /* "/mnt/c/shkim/jupyter notebook/algorithm-python/actual-practice/input.txt",
+                "/mnt/c/shkim/jupyter notebook/algorithm-python/actual-practice/output.txt" */
             ]
- */            
         }
     ]
 }
