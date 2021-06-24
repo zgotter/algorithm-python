@@ -1,5 +1,5 @@
 # 성공
-# 다른 사람 풀이
+# 복습
 
 def solution(number, k):
     stack = []
@@ -12,7 +12,7 @@ def solution(number, k):
                 break
         stack.append(n)
     if k > 0:
-        for i in range(k):
+        for _ in range(k):
             stack.pop()
     return ''.join(stack)
 
